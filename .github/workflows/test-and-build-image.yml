@@ -1,4 +1,4 @@
-name: test-and-build-image2
+name: test-and-build-image
 on:
   workflow_dispatch:
 
